@@ -21,7 +21,7 @@ public class PracticaBucleIV5Y6 {
             num1++;
         }
         
-        System.out.println("Ismale deja de borrar cosas");
+        System.out.println("Ismael deja de borrar cosas");
         
     }
 }
